@@ -1,0 +1,11 @@
+{
+  "name": "adn-nao-amarela",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes serve -l 4173 ."
+  },
+  "dependencies": {
+    "sharp": "^0.35.5"
+  }
+}

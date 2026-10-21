@@ -1,0 +1,11 @@
+node_modules
+fotos
+album
+sheet-a.jpg
+sheet-b.jpg
+fotos-meta.json
+download.mjs
+sheet.mjs
+.vercel
+.env*
+!.env.example
